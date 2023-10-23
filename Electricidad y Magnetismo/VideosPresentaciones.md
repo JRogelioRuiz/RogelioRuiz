@@ -1,0 +1,5 @@
+# LINK PRESENTACIÓN PROYECTO DE CAMPO MAGNÉTICO:
+https://www.youtube.com/watch?v=EsEr1B6Jt7w
+
+# LINK PRESENTACIÓN PROYECTO DE CAMPO ELÉCTRICO:
+https://youtu.be/at07D0TK7pE

@@ -1,0 +1,39 @@
+Dec 01 2022 00:36:22 10.61.117.18 Security breaches
+Dec 01 2022 01:52:33 10.68.152.65 Human error
+Dec 01 2022 02:16:06 10.7.94.181 Security breaches
+Dec 01 2022 03:53:25 10.174.114.193 Data corruption
+Dec 01 2022 04:41:21 10.27.27.142 Security breaches
+Dec 01 2022 05:16:23 10.47.136.22 Broken authentication and session management
+Dec 01 2022 06:07:24 10.215.172.225 Data corruption
+Dec 01 2022 07:09:28 10.80.166.73 Configuration errors
+Dec 01 2022 09:50:53 10.87.33.38 Application error
+Dec 01 2022 12:19:08 10.218.138.129 Configuration errors
+Dec 01 2022 12:44:20 10.115.176.130 Configuration errors
+Dec 01 2022 16:16:44 10.55.31.225 Weak or easily guessable passwords
+Dec 01 2022 16:36:05 10.185.127.196 Social engineering attacks
+Dec 01 2022 16:40:19 10.16.131.76 Human error
+Dec 01 2022 17:37:28 10.88.89.106 Data corruption
+Dec 01 2022 18:54:05 10.155.78.165 Configuration errors
+Dec 01 2022 21:12:46 10.47.189.239 SQL injection
+Dec 01 2022 21:21:29 10.212.120.7 Broken authentication and session management
+Dec 01 2022 22:14:10 10.126.178.134 Human error
+Dec 01 2022 22:47:34 10.111.112.234 Unencrypted communication
+Dec 01 2022 22:53:21 10.165.103.241 Unencrypted communication
+Dec 01 2022 23:30:13 10.182.39.42 SQL injection
+Dec 02 2022 00:28:06 10.95.77.197 Weak or easily guessable passwords
+Dec 02 2022 00:56:21 10.110.182.142 Load balancing issues
+Dec 02 2022 01:10:00 10.24.233.230 Broken authentication and session management
+Dec 02 2022 01:56:53 10.164.94.58 Weak or easily guessable passwords
+Dec 02 2022 05:00:53 10.138.246.184 Configuration errors
+Dec 02 2022 05:48:35 10.150.236.240 Network connectivity issues
+Dec 02 2022 05:52:00 10.1.102.253 Unencrypted communication
+Dec 02 2022 06:26:13 10.10.208.10 Load balancing issues
+Dec 02 2022 07:30:02 10.222.186.222 Security breaches
+Dec 02 2022 07:39:55 10.245.168.210 Unencrypted communication
+Dec 02 2022 10:30:16 10.214.16.104 Human error
+Dec 02 2022 12:06:47 10.75.112.217 SQL injection
+Dec 02 2022 15:56:21 10.12.222.3 SQL injection
+Dec 02 2022 17:37:09 10.34.154.68 Network connectivity issues
+Dec 02 2022 19:05:57 10.232.244.25 Human error
+Dec 02 2022 19:06:25 10.218.138.39 Application error
+Dec 02 2022 22:48:06 10.250.130.203 Data corruption

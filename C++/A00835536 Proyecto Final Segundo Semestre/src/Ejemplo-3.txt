@@ -1,0 +1,50 @@
+e 1 ...And_the_Bag's_in_the_River Drama 48 4.7 Breaking_Bad 3 1
+e 2 4_Days_Out Drama 47 5 Breaking_Bad 9 2
+e 3 A.A.R.M. Comedia 22 4 The_Office 22 9
+e 4 A_Benihana_Christmas Comedia 22 3 The_Office 10 3
+e 5 A_No-Rough-Stuff-Type_Deal Drama 48 2 Breaking_Bad 7 1
+e 6 Abiquiu Drama 47 1 Breaking_Bad 11 3
+e 7 ABQ Drama 47 5 Breaking_Bad 13 2
+e 8 After_Hours Comedia 22 4 The_Office 16 8
+e 9 Andy's_Ancestry Comedia 22 3 The_Office 3 9
+e 10 Andy's_Play Comedia 22 2 The_Office 3 7
+e 11 Angry_Andy Comedia 22 1 The_Office 21 8
+p 12 Avengers:_Endgame Acción 181 5   
+e 13 Baby_Shower Comedia 22 4 The_Office 3 5
+e 14 Back_From_Vacation Comedia 22 3 The_Office 11 3
+e 15 Basketball Comedia 22 2 The_Office 5 1
+e 16 Beach_Games Comedia 22 1 The_Office 22 3
+e 17 Ben_Franklin Comedia 22 5 The_Office 14 3
+e 18 Better_Call_Saul Drama 47 4 Breaking_Bad 8 2
+e 19 Bit_by_a_Dead_Bee Drama 48 4 Breaking_Bad 3 2
+e 20 Blood_Drive Comedia 22 3 The_Office 18 5
+e 21 Blood_Money Drama 48 2 Breaking_Bad 9 5
+e 22 Body_Language Comedia 22 1 The_Office 23 6
+e 23 Booze_Cruise Comedia 22 5 The_Office 11 2
+e 24 Box_Cutter Drama 47 4 Breaking_Bad 1 4
+e 25 Boys_and_Girls Comedia 22 5 The_Office 15 2
+e 26 Branch_Closing Comedia 22 4 The_Office 7 3
+e 27 Branch_Wars Comedia 22 3 The_Office 6 4
+e 28 Breakage Drama 47 2 Breaking_Bad 5 2
+e 29 Broke Comedia 22 1 The_Office 25 5
+e 30 Bug Drama 47 4 Breaking_Bad 9 4
+e 31 Bullet_Points Drama 47 4 Breaking_Bad 4 4
+e 32 Buried Drama 48 4 Breaking_Bad 10 5
+e 33 Business_Ethics Comedia 22 5 The_Office 2 5
+e 34 Business_School Comedia 22 4 The_Office 16 3
+e 35 Business_Trip Comedia 22 3 The_Office 8 5
+e 36 Buyout Drama 47 4 Breaking_Bad 6 5
+e 37 Caballo_Sin_Nombre Drama 47 4 Breaking_Bad 2 3
+e 38 Cafe_Disco Comedia 22 3 The_Office 27 5
+e 39 Cancer_Man Drama 48 4 Breaking_Bad 4 1
+p 40 Casablanca Romance 102 5   
+e 41 Casino_Night Comedia 22 5 The_Office 22 2
+e 42 Casual_Friday Comedia 22 5 The_Office 26 5
+e 43 Cat's_in_the_Bag... Drama 48 4 Breaking_Bad 2 1
+e 44 Chair_Model Comedia 22 5 The_Office 14 4
+p 186 La_La_Land Musical 128 4   
+p 187 La_Lista_de_Schindler Drama 195 5   
+p 188 La_naranja_mecánica Drama 137 4   
+p 189 La_vida_es_bella Drama 116 5   
+p 49 Ciudad_de_Dios Drama 130 5   
+e 50 Classy_Christmas:_Part_1 Comedia 22 5 The_Office 11 7

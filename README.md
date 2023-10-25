@@ -10,6 +10,7 @@ Portafolio de Evidencias A00835536
 
 - Contacto: **A00835536@tec.mx**
 
+- Promedio Acumulado 2do Semestre: **99**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rogelio-ruiz-5035b524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rogelio ruiz" height="30" width="40" /></a>
@@ -31,23 +32,17 @@ Portafolio de Evidencias A00835536
 
 <h4 align="left">C++:</h4>
 <h5 align="left">Evidencia 1</h5>
-<p align="left">
 Fecha: 10/09/2023
-</p>
-<p align="left">
+
 Descripción del Programa: 
 - El programa lee un archivo de datos de errores con sus fechas  
 - Regresa otro archivo con los datos ordenados utilizando el algoritmo Quick Sort
 - Pide al usuario un rango de fechas, luego lo despliega en la pantalla y regresa otro archivo con solo esos datos
-</p>
 <h5 align="left">Evidencia 2</h5>
-<p align="left">
 Fecha: 08/10/2023
-</p>
-<p align="left">
+
 Descripción del Programa: 
 - El programa lee un archivo de datos de errores con sus fechas  
 - Da al usuario un menu de opciones donde puede ordenar los datos por fecha, ordenar por IP, encontrar un rango de IPs o desplegar las ips por año y mes.
-- Regresa archivos para las operaciones de ordenar datos por fecha, por IP y uno con el rango en orden ascendente y otro con el rango en orden descentente
-</p>
+- Regresa archivos para las operaciones de ordenar datos por fecha, por IP y uno con el rango en orden ascendente y otro con el rango en orden descentente.
 

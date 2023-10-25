@@ -21,7 +21,7 @@ Portafolio de Evidencias A00835536
 <h3 align="left">Descripción de Evidencias</h3>
 <h4 align="left">Electricidad y Magnetismo:</h4>
 <p align="left">
-  Programas que modelan el efecto del campo eléctrico y electromagnético en partículas
+  Programas que modelan el efecto del campo eléctrico y electromagnético en partículas cargadas
 </p>
 <h4 align="left">Estadística:</h4>
 <p align="left">

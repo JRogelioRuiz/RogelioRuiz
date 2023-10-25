@@ -32,7 +32,9 @@ Portafolio de Evidencias A00835536
 <h4 align="left">C++:</h4>
 <h5 align="left">Evidencia 1</h5>
 <p align="left">
-Fecha: 10/09/2023\n
+Fecha: 10/09/2023
+</p>
+<p align="left">
 Descripción del Programa: 
 - El programa lee un archivo de datos de errores con sus fechas  
 - Regresa otro archivo con los datos ordenados utilizando el algoritmo Quick Sort
@@ -40,7 +42,9 @@ Descripción del Programa:
 </p>
 <h5 align="left">Evidencia 2</h5>
 <p align="left">
-Fecha: 08/10/2023\n
+Fecha: 08/10/2023
+</p>
+<p align="left">
 Descripción del Programa: 
 - El programa lee un archivo de datos de errores con sus fechas  
 - Da al usuario un menu de opciones donde puede ordenar los datos por fecha, ordenar por IP, encontrar un rango de IPs o desplegar las ips por año y mes.

@@ -94,7 +94,7 @@ El propósito del proyecto era facilitar el cuidado de mascotas pequeñas utiliz
 #### Hábitat de Hamster
 
 <video width="500px" height="500px" controls="controls">
-  <source src="https://youtu.be/UayfB8sX1us" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=UayfB8sX1us" type="video/mp4">
 </video>
 
 Software Utilizados:
@@ -103,4 +103,4 @@ Software Utilizados:
 - Node.js
 - Base de datos en SQL
 
-![bd_IoT](Assets/bd_IoT.png)
+![IoT Database](Assets/bd_IoT.png)

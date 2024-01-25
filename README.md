@@ -93,7 +93,7 @@ El propósito del proyecto era facilitar el cuidado de mascotas pequeñas utiliz
 
 #### Hábitat de Hamster
 
-<video width="500px" height="500px" controls="controls">
+<video controls="controls">
   <source src="Assets/Jaula_Hamster.mp4" type="video/mp4">
 </video>
 

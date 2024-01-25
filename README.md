@@ -38,14 +38,23 @@ Portafolio de Evidencias A00835536
 
 ## Descripción de Evidencias
 
-### Electricidad y Magnetismo:
+### IoT:
 
-Programas que modelan el efecto del campo eléctrico y electromagnético en partículas cargadas
+El propósito del proyecto era facilitar el cuidado de mascotas pequeñas utilizando sensores que permitieran recolectar información sobre el estatus del hábitat y los animales y utilizando actuadores para realizar tareas simples como rellenar la comida y el agua.
 
-### Estadística:
+#### Hábitat de Hamster
 
-- Análisis de Datos en R.
-- Análisis de Datos de Experimento de la Botella de Mariotte.
+<video controls="controls">
+  <source src="Assets/Jaula_Hamster.mp4" type="video/mp4">
+</video>
+
+Software Utilizados:
+
+- ArduinoIDE
+- Node.js
+- Base de datos en SQL
+
+![IoT Database](Assets/bd_IoT.png)
 
 ### C++:
 
@@ -87,20 +96,11 @@ Descripción del Programa:
 - El programa lee un archivo de datos de ciudades con distancias y tiempos para rutas por carro y por tren hacia otras ciudades.
 - Da al usuario un menú de opciones donde puede ordenar en un archivo las ciudades alfabéticamente, regresar un archivo con la lista de adyacencias del grafo de ciudades, recorrer el grafo por DFS y BFS, y regresar la ruta más corta entre dos ciudades con el algoritmo Dijkstra.
 
-### IoT:
+### Electricidad y Magnetismo:
 
-El propósito del proyecto era facilitar el cuidado de mascotas pequeñas utilizando sensores que permitieran recolectar información sobre el estatus del hábitat y los animales y utilizando actuadores para realizar tareas simples como rellenar la comida y el agua.
+Programas que modelan el efecto del campo eléctrico y electromagnético en partículas cargadas
 
-#### Hábitat de Hamster
+### Estadística:
 
-<video controls="controls">
-  <source src="Assets/Jaula_Hamster.mp4" type="video/mp4">
-</video>
-
-Software Utilizados:
-
-- ArduinoIDE
-- Node.js
-- Base de datos en SQL
-
-![IoT Database](Assets/bd_IoT.png)
+- Análisis de Datos en R.
+- Análisis de Datos de Experimento de la Botella de Mariotte.

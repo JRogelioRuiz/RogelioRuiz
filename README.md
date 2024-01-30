@@ -1,7 +1,7 @@
 # RogelioRuiz
 Portafolio de Evidencias A00835536 
 
-<h1 align="center">Yo soy Rogelio Ruiz</h1>
+<h1 align="center">José Rogelio Ruiz Martínez</h1>
 <h3 align="center">Estudiante de Ingeniería en Robótica y Sistemas Digitales</h3>
 
 - Actualmente aprendo sobre **C++, SQL, Robótica, Desarrollo Web**
@@ -22,8 +22,8 @@ Portafolio de Evidencias A00835536
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
@@ -44,7 +44,7 @@ El propósito del proyecto era facilitar el cuidado de mascotas pequeñas utiliz
 
 #### Hábitat de Hamster
 
-**LINK:** https://www.youtube.com/watch?v=UayfB8sX1us&t=1s
+**LINK:** [https://www.youtube.com/watch?v=UayfB8sX1us&t=1s](https://www.youtube.com/watch?v=UayfB8sX1us&t=1s)
 
 <video width="320" height="240" controls>
   <source src="Assets/Jaula_Hamster.mp4" type="video/mp4">
@@ -60,49 +60,21 @@ Software Utilizados:
 
 ### C++:
 
+Conocimientos adquiridos: 
+- Algoritmos de ordenamiento
+- Algoritmos de búsqueda
+- Estructuras de datos: linked lists, heaps, trees, graph traversal.  
+
 #### Evidencia 1
-
-Fecha: 10/09/2023
-
-Descripción del Programa:
-
-- El programa lee un archivo de datos de errores con sus fechas.
-- Regresa otro archivo con los datos ordenados utilizando el algoritmo Quick Sort.
-- Pide al usuario un rango de fechas, luego lo despliega en la pantalla y regresa otro archivo con solo esos datos.
+  Lectura de datos con formato y fecha, ordenamiento de estos utilizando el algoritmo Quick Sort.
 
 #### Evidencia 2
-
-Fecha: 08/10/2023
-
-Descripción del Programa:
-
-- El programa lee un archivo de datos de errores con sus fechas.
-- Da al usuario un menú de opciones donde puede ordenar los datos por fecha, ordenar por IP, encontrar un rango de IPs o desplegar las IPs por año y mes.
-- Regresa archivos para las operaciones de ordenar datos por fecha, por IP y uno con el rango en orden ascendente y otro con el rango en orden descendente.
+  Lectura y búsqueda de datos con formato y fecha, ordenándolos por fecha o IP.
 
 #### Evidencia 3
-
-Fecha: 29/10/2023
-
-Descripción del Programa:
-
-- El programa lee un archivo de datos de errores con sus fechas.
-- Da al usuario un menú de opciones donde puede ordenar los datos de mayor a menor (maxHeap) y menor a mayor (minHeap) y regresarlos en un archivo, mostrar las 10 IPs que se repiten más veces y encontrar la cantidad de veces que se repite una IP ingresada.
+  Lectura de datos y ordenamiento utilizando max y minheap.
 
 #### Evidencia 4
+  Lectura de datos de ciudades, poniendolos en un grafo, con opciones de ordenar los datos, obtener la lista de adyacencias, recorrido del grafo con BFS y DFS y obtención de rutas más cortas utilizando el algoritmo Dijkstra. 
 
-Fecha: 01/12/2023
 
-Descripción del Programa:
-
-- El programa lee un archivo de datos de ciudades con distancias y tiempos para rutas por carro y por tren hacia otras ciudades.
-- Da al usuario un menú de opciones donde puede ordenar en un archivo las ciudades alfabéticamente, regresar un archivo con la lista de adyacencias del grafo de ciudades, recorrer el grafo por DFS y BFS, y regresar la ruta más corta entre dos ciudades con el algoritmo Dijkstra.
-
-### Electricidad y Magnetismo:
-
-Programas que modelan el efecto del campo eléctrico y electromagnético en partículas cargadas
-
-### Estadística:
-
-- Análisis de Datos en R.
-- Análisis de Datos de Experimento de la Botella de Mariotte.

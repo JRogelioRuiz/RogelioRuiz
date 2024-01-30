@@ -8,13 +8,10 @@ Portafolio de Evidencias A00835536
 
 - Portafolio: [https://github.com/JRogelioRuiz/RogelioRuiz](https://github.com/JRogelioRuiz/RogelioRuiz)
 
-- Contacto: **A00835536@tec.mx**
+- Contacto: **A00835536@tec.mx** <a href="https://linkedin.com/in/rogelio-ruiz-5035b524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rogelio ruiz" height="30" width="40" /></a>
 
 - Promedio Acumulado 3er Semestre: **99**
 
-## Connect with me:
-
-<a href="https://linkedin.com/in/rogelio-ruiz-5035b524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rogelio ruiz" height="30" width="40" /></a>
 
 ## Languages and Tools:
 

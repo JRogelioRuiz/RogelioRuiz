@@ -51,7 +51,7 @@ Software Utilizados:
 - Base de datos en SQL
 
 <!-- ![IoT Database](Assets/bd_IoT.jpeg) -->
-<img src="Assets/bd_IoT.jpeg" alt="IoT Data base" width="150px" height="350px"/>
+<img src="Assets/bd_IoT.jpeg" alt="IoT Data base" width="250px" height="350px"/>
 
 ### C++:
 

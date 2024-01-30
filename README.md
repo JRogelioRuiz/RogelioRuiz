@@ -1,6 +1,3 @@
-# RogelioRuiz
-Portafolio de Evidencias A00835536 
-
 <h1 align="center">José Rogelio Ruiz Martínez</h1>
 <h3 align="center">Estudiante de Ingeniería en Robótica y Sistemas Digitales</h3>
 
@@ -8,7 +5,7 @@ Portafolio de Evidencias A00835536
 
 - Portafolio: [https://github.com/JRogelioRuiz/RogelioRuiz](https://github.com/JRogelioRuiz/RogelioRuiz)
 
-- Contacto: **A00835536@tec.mx** <a href="https://linkedin.com/in/rogelio-ruiz-5035b524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rogelio ruiz" height="30" width="40" /></a>
+- Contacto: **A00835536@tec.mx**   <a href="https://linkedin.com/in/rogelio-ruiz-5035b524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rogelio ruiz" height="30" width="40" /></a>
 
 - Promedio Acumulado 3er Semestre: **99**
 
@@ -53,7 +50,8 @@ Software Utilizados:
 - Node.js
 - Base de datos en SQL
 
-![IoT Database](Assets/bd_IoT.png)
+<!-- ![IoT Database](Assets/bd_IoT.jpeg) -->
+<img src="Assets/bd_IoT.jpeg" alt="IoT Data base" width="150px" height="350px"/>
 
 ### C++:
 

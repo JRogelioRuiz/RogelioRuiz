@@ -1,5 +1,3 @@
-<h1 align="center">José Rogelio Ruiz Martínez</h1>
-<h3 align="center">Estudiante de Ingeniería en Robótica y Sistemas Digitales</h3>
 
 - Actualmente aprendo sobre **C++, SQL, Robótica, Desarrollo Web**
 

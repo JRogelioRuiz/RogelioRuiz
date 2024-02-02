@@ -1,6 +1,8 @@
 
 - Actualmente aprendo sobre **C++, SQL, Robótica, Desarrollo Web**
 
+- Currículo en línea: [https://jrogelioruiz.github.io/RogelioRuiz/](https://jrogelioruiz.github.io/RogelioRuiz/)
+
 - Portafolio: [https://github.com/JRogelioRuiz/RogelioRuiz](https://github.com/JRogelioRuiz/RogelioRuiz)
 
 - Contacto: **A00835536@tec.mx**   <a href="https://linkedin.com/in/rogelio-ruiz-5035b524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rogelio ruiz" height="30" width="40" /></a>
@@ -70,4 +72,23 @@ Conocimientos adquiridos:
 #### Evidencia 4
   Lectura de datos de ciudades, poniendolos en un grafo, con opciones de ordenar los datos, obtener la lista de adyacencias, recorrido del grafo con BFS y DFS y obtención de rutas más cortas utilizando el algoritmo Dijkstra. 
 
+<div style="display: flex;">
+  <div style="flex: 1">
+    <h3>Actividades extracurriculares</h3>
+    <ul>
+      <li>Tenis</li>
+      <li>Tenis de Mesa</li>
+      <li>Guitarra</li>
+      <li> <a href="https://www.instagram.com/smalc.tec?igsh=MWs3Njd3NmF2MzBtbQ==">SMALC</a></li>
+    </ul>
+  </div>
+  <div style="flex: 1">
+    <h3>Capacitación Continua (cursos en proceso)</h3>
+    <ul>
+      <li> <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Web Development</a></li>
+      <li> <a href="https://www.udemy.com/course/competitive-programming-algorithms-coding-minutes/">Competitive Programming</a></li>
+      <li> <a href="https://www.udemy.com/course/robotics-and-ros-2-learn-by-doing-manipulators/">ROS 2</a></li>
+    </ul>
+  </div>
+</div>
 

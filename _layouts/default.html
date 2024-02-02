@@ -15,14 +15,14 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
-        <header class="inner">
+        <header class="inner" style="display: flex;">
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
 
-          <img height="150" width="150" src="Assets/Foto.png" alt="Image of myself" style="display: inline-block; vertical-align: middle;">
+          <img height="150" width="150" src="Assets/Foto.png" alt="Image of myself" style="flex: 1; border: 1px solid black; margin: 5px;">
           
-          <div style="display: inline-block;">
+          <div style="flex: 2; margin: 5px;">
             <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
             <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           </div>
